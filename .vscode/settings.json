@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "Helmet-detection",
+        "projectKey": "Trong-eng_Helmet-detection"
+    }
+}
